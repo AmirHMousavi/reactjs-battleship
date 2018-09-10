@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the HomePage Component 1`] = `
+<div>
+  <Container
+    textAlign="center"
+  >
+    <ButtonGroup
+      vertical={true}
+    >
+      <Button
+        as="button"
+        color="blue"
+        id="startgame"
+        onClick={[Function]}
+        role="button"
+      >
+        START GAME
+      </Button>
+      <br />
+      <Button
+        as={[Function]}
+        color="teal"
+        id="scoreboard"
+        role="button"
+        to="/ScoreBoard"
+      >
+        SCORE BOARD
+      </Button>
+      <br />
+      <Button
+        as={[Function]}
+        color="yellow"
+        id="gamerules"
+        role="button"
+        to="/Rules"
+      >
+        GAME RULES
+      </Button>
+    </ButtonGroup>
+  </Container>
+</div>
+`;

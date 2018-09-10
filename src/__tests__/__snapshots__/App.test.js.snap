@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link renders correctly 1`] = `
+<Container>
+  <Image
+    alt="BATTLESHIP"
+    as="img"
+    centered={true}
+    size="medium"
+    src="banner.png"
+    ui={true}
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/Rules"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/ScoreBoard"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/GameInit"
+  />
+  <Route
+    component={[Function]}
+    exact={true}
+    path="/Battle"
+  />
+</Container>
+`;
