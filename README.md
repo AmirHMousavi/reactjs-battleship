@@ -2,10 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Run the App
 
+install [yarn](https://yarnpkg.com/en/docs/install#debian-stable) globally 
+
 ```
 git clone https://github.com/AmirHMousavi/reactjs-battleship.git
 cd reactjs-battleship
-npm/yarn start
+yarn install
+yarn start
 ```
 
 ### for testing
